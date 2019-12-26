@@ -1,11 +1,11 @@
 .App {
 	font-family: sans-serif;
 	text-align: center;
-	background-color: #000000;
-	color: #ffffff;
 }
 .App > div {
+	background-color: #000000;
 	margin-bottom: 20px;
+	border: solid pink 2px;
 }
 
 g {
@@ -31,4 +31,12 @@ ss {
 m {
 	display: inline;
 	color: #f3ac8c;
+}
+w {
+	display: inline;
+	color: #ffffff;
+}
+
+.offset {
+	color: pink;
 }
