@@ -1,0 +1,34 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+	background-color: #000000;
+	color: #ffffff;
+}
+.App > div {
+	margin-bottom: 20px;
+}
+
+g {
+	display: inline;
+	color: #92ba6b;
+}
+
+r {
+	display: inline;
+	color: #f10c33;
+}
+
+y {
+	display: inline;
+	color: #efe8a0;
+}
+
+ss {
+	display: inline;
+	color: #f5dbbf;
+}
+
+m {
+	display: inline;
+	color: #f3ac8c;
+}
